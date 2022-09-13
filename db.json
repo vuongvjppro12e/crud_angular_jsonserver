@@ -1,0 +1,77 @@
+{
+  "productlist": [
+    {
+      "productName": "apple ",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": "10",
+      "comment": "new apple ",
+      "date": "2022-08-31T17:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "mango",
+      "category": "Vegetables",
+      "freshness": "Second hand",
+      "price": "20",
+      "comment": "hahah",
+      "date": "2022-09-08T17:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "samsung a12",
+      "category": "Electronic",
+      "freshness": "Refurbished",
+      "price": "98000",
+      "comment": "is't new fone ",
+      "date": "2022-09-08T17:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "ngau",
+      "category": "Fruits",
+      "freshness": "Second hand",
+      "price": "4500",
+      "comment": "haha",
+      "date": "2022-09-09T17:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "hahah",
+      "category": "Vegetables",
+      "freshness": "Second hand",
+      "price": 86,
+      "comment": "hahah",
+      "date": "2022-09-15T17:00:00.000Z",
+      "id": 9
+    },
+    {
+      "productName": "vuongct",
+      "category": "Electronic",
+      "freshness": "Brand new",
+      "price": 9999999,
+      "comment": "vuong cao thu",
+      "date": "2022-09-15T17:00:00.000Z",
+      "id": 10
+    },
+    {
+      "productName": "vinh dan",
+      "category": "Vegetables",
+      "freshness": "Second hand",
+      "price": 1,
+      "comment": "vinh ngo tau`",
+      "date": "2022-09-13T17:00:00.000Z",
+      "id": 11
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
